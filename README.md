@@ -1,5 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seikexian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seikexian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seikexian&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seikexian&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Seikexian/Seikexian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
